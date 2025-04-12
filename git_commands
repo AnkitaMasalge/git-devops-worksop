@@ -5,8 +5,8 @@ history
     4  git status
     5  git commit -m "addes 1st file to git"
     6  git status
-    7  git config --global user.email "ankitamasalge165@gmail.com"
-    8  git config --global user.name "Ankita Masalge"
+    7  git config --global user.email "user@gmail.com"
+    8  git config --global user.name "username"
     9  git status
    10  git commit -m "my first git file is added"
    11  git status
@@ -15,6 +15,7 @@ history
    14  git restore test.py
    15  git status
    16  clear
+
 
    31  git remote add origin https://github.com/AnkitaMasalge/git-devops-worksop.git
    32  git remote -v
@@ -31,3 +32,6 @@ history
    44  git push origin master
    45  clear
    46  history
+
+#I have added more commands to the file so that i can pull the fil in local.
+
