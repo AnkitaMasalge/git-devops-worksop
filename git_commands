@@ -15,3 +15,4 @@ history
    14  git restore test.py
    15  git status
    16  clear
+#I have added more commands to the file so that i can pull the fil in local.
