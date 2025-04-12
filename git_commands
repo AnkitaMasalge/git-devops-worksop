@@ -1,0 +1,17 @@
+history
+    1  git init
+    2  git status
+    3  git add test.py
+    4  git status
+    5  git commit -m "addes 1st file to git"
+    6  git status
+    7  git config --global user.email "ankitamasalge165@gmail.com"
+    8  git config --global user.name "Ankita Masalge"
+    9  git status
+   10  git commit -m "my first git file is added"
+   11  git status
+   12  rm test.py
+   13  ls
+   14  git restore test.py
+   15  git status
+   16  clear
