@@ -15,3 +15,19 @@ history
    14  git restore test.py
    15  git status
    16  clear
+
+   31  git remote add origin https://github.com/AnkitaMasalge/git-devops-worksop.git
+   32  git remote -v
+   34  git remote set-url origin https://token@github.com/AnkitaMasalge/git-devops-worksop.git
+   
+   36  git remote -v
+   37  clear
+   38  git push origin master
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -m "new git commands is added"
+   43  git status
+   44  git push origin master
+   45  clear
+   46  history
