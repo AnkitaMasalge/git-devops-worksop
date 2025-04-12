@@ -4,5 +4,6 @@ def fun(message):
     """
     print(message)
 
-fun(Hello)
+fun("Hello")
+
 
